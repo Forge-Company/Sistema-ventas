@@ -26,3 +26,7 @@ Bienvenido al repositorio oficial del **Sistema de Ventas** de FORGE COMPANY. Es
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-empresa/sistema-de-ventas.git
+
+
+## Nota
+- El stack se esta evaluando si tiene alguna sugerencian comuníquense con nosotros
