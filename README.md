@@ -30,3 +30,4 @@ Bienvenido al repositorio oficial del **Sistema de Ventas** de FORGE COMPANY. Es
 
 ## Nota
 - El stack se esta evaluando si tiene alguna sugerencian comuníquense con nosotros
+- Si deseas una participación más activa te uniremos al Discord
